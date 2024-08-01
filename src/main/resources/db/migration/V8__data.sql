@@ -42,7 +42,10 @@ VALUES
     (4, 'Olympics shorts', 50000, 2, 'Active'),
     (3, 'Gdansk Tower', 50000000, 5, 'Finished'),
     (5, 'ECO Startup', 100000, 2, 'Active'),
-    (2, 'StreamMAX', 750000, 1, 'Finished')
+    (2, 'StreamMAX', 750000, 1, 'Finished'),
+    (3, 'Old Project', 1000000, 3, 'Finished'),
+    (5, 'NewBig', 1600000, 1, 'Active'),
+    (2, 'FAST', 7000, 2, 'Finished')
 ;
 
 INSERT INTO assignment
@@ -52,7 +55,10 @@ VALUES
     (2, 2, "Inactive"),
     (3, 3, "Active"),
     (4, 4, "Active"),
-    (5, 5, "Inactive")
+    (5, 5, "Inactive"),
+    (1, 2, "Active"),
+    (2, 2, "Inactive"),
+    (3, 5, "Active")
 ;
 
 INSERT INTO project_technology
